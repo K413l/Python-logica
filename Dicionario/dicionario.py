@@ -6,3 +6,7 @@ tabela['corinthians'] = [16, 6, 34, 10]
 tabela['spfc'] = [16, 6, 34, 10]
 
 print(tabela)
+tabela['palmeiras'] = [16, 6, 34, 10]
+print('******')
+print(tabela)
+
